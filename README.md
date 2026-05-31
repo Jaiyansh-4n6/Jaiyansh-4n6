@@ -2,8 +2,6 @@
 
 <br>🎓 BTech CSE (Cyber Security & Digital Forensics)<br>🏫 Vellore Institute of Technology, Bhopal
 
-💻 Currently learning Cybersecurity and Digital Forensics  
-
 🚀 Exploring:
 - Networking   
 - Linux (Kali Linux)  

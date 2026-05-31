@@ -3,7 +3,6 @@
 <br>🎓 BTech CSE (Cyber Security & Digital Forensics)<br>🏫 Vellore Institute of Technology, Bhopal
 
 💻 Currently learning Cybersecurity and Digital Forensics  
-🎯 Goal: To work in Cyber Crime Investigation and to protect organisations from cyber threats  
 
 🚀 Exploring:
 - Networking   

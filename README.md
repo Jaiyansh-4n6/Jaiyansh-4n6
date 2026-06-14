@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats
 <br><p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jaiyansh12&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Jaiyansh12's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Jaiyansh-4n6&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Jaiyansh-4n6's GitHub Streak" width="49%" />
 </p><br>
 
 ## 🔗 Connect with Me

@@ -40,7 +40,7 @@
 </p><br>
 
 <p align="center">
-<img src="assets/number_ball.gif" alt="Banner" width="50%" />
+<img src="assets/number_ball.gif" alt="Banner" width="40%" />
 </p><br>
 
 <div align="center">

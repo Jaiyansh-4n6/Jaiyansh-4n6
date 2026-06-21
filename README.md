@@ -1,6 +1,11 @@
 <h1 align="center">Hey <img src="assets/hand.png" height="30px" width="30px"> I'm Jaiyansh</h1>
 
-<br>🎓 BTech CSE (Cyber Security & Digital Forensics)<br>🏫 Vellore Institute of Technology, Bhopal
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=290&lines=Cyber+Security+Student" />
+</p>
+
+🎓 BTech CSE (Cyber Security & Digital Forensics)
+<br>🏫 Vellore Institute of Technology, Bhopal
 
 🚀 Exploring:
 - Networking   
@@ -11,15 +16,16 @@
 🧠 My Focus Areas
 - Cybersecurity Fundamentals
 - Digital Forensics
-- Linux And Open Source Tools<br><br>
+- Linux And Open Source Tools
 
-## 📊 GitHub Stats
-<br><p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jaiyansh-4n6&theme=nightowl&hide_border=true&cache_seconds=3600" alt="Jaiyansh-4n6's GitHub Streak" width="49%" />
-</p><br>
+## 🗽 GitHub Stats
+
+<p align="center">
+  <img src="https://github-scanner-psi.vercel.app" alt="GitHub Contribution Scanner" width="100%">
+</p>
 
 ## 🔗 Connect with Me
-<br><p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/jaiyansh-4n6/" >
     <img src="assets/linkedin.svg" width="40"/>
   </a>
@@ -31,19 +37,11 @@
   <a href="https://www.instagram.com/jay.4n6/" target="_blank">
     <img src="assets/instagram.svg" width="40"/>
   </a>
-</p><br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture><br><br>
-
-
-<p align="center">
-<img src="assets/number_ball.gif" alt="Banner" width="40%" />
 </p><br>
 
+<p align="center">
+<img src="assets/number_ball.gif" alt="Banner" width="50%" />
+</p><br>
 
 <div align="center">
   <img src="assets/bottom-line.gif" alt="Bottom Line" width="100%" />

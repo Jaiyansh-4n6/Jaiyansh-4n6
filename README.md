@@ -21,8 +21,10 @@
 ## 🗽 GitHub Stats
 
 <p align="center">
-  <img src="https://github-scanner-psi.vercel.app" alt="GitHub Contribution Scanner" width="100%">
+  <img src="https://Jaiyansh-4n6-GitHubScanner.vercel.app" alt="GitHub Contribution Scanner" width="100%">
 </p>
+
+> 💡 Click the graph to explore the interactive contribution scanner.
 
 ## 🔗 Connect with Me
 <p align="center">

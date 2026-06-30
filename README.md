@@ -7,16 +7,17 @@
 🎓 BTech CSE (Cyber Security & Digital Forensics)
 <br>🏫 Vellore Institute of Technology, Bhopal
 
-🚀 Exploring:
+### 🚀 Exploring:
 - Networking   
 - Linux (Kali Linux)  
 - Digital Forensics Tools
 - Programming
 
-🧠 My Focus Areas
-- Cybersecurity Fundamentals
+### 🖥️ Technical Interests
+- Cybersecurity
 - Digital Forensics
-- Linux And Open Source Tools
+- Linux Ecosystem
+- Open Source Software
 
 ## 🗽 GitHub Stats
 

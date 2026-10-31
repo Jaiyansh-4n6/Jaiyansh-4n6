@@ -51,7 +51,7 @@
 ### ⚙️ Systems & Development Tools
 
 <p align="left">
-  <img src="./assets/kaliLinux.svg" height="40" alt="Kali Linux" />
+  <img src="./assets/kalilinux.svg" height="40" alt="Kali Linux" />
   <img src="./assets/git.svg" height="40" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="Systems and Development Tools" />
   <img src="./assets/vercel.svg" height="40" alt="Vercel" />

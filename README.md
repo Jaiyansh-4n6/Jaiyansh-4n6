@@ -20,7 +20,7 @@
 
 ## 🛠️ Skills & Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p align="left">
   <img src="./assets/python.svg" height="40" alt="Python" />
@@ -31,21 +31,27 @@
   <img src="./assets/visualbasic.svg" height="40" alt="Visual Basic" />
 </p>
 
-### ⚛️ Frameworks & Runtimes
+### 🌐 Web Technologies & Styling
 
 <p align="left">
   <img src="./assets/html.svg" height="40" alt="HTML5" />
   <img src="./assets/css.svg" height="40" alt="CSS3" />
-  <img src="./assets/react.svg" height="40" alt="React" />
-  <img src="./assets/nextjs.svg" height="40" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,tailwind" height="45" alt="Frameworks and Runtimes" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
 </p>
 
-### 🗄️ Backend Services & Data
+### ⚛️ Frameworks & Runtimes
 
 <p align="left">
-  <img src="./assets/supabase.svg" height="40" alt="Supabase" />
+  <img src="./assets/react.svg" height="40" alt="React" />
+  <img src="./assets/nextjs.svg" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask" height="45" alt="Node.js and Flask" />
+</p>
+
+### 🗄️ Backend Services & Platforms
+
+<p align="left">
   <img src="./assets/firebase.svg" height="40" alt="Firebase" />
+  <img src="./assets/supabase.svg" height="40" alt="Supabase" />
 </p>
 
 ### ⚙️ Systems & Development Tools
@@ -53,7 +59,7 @@
 <p align="left">
   <img src="./assets/kalilinux.svg" height="40" alt="Kali Linux" />
   <img src="./assets/git.svg" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="Systems and Development Tools" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   <img src="./assets/vercel.svg" height="40" alt="Vercel" />
   <img src="./assets/vscode.svg" height="40" alt="VS Code" />
   <img src="./assets/antigravity.svg" height="40" alt="Antigravity" />

@@ -72,7 +72,7 @@
 
 <p align="center">
   <a href="https://Jaiyansh-4n6-GitHubScanner.vercel.app">
-    <img src="https://Jaiyansh-4n6-GitHubScanner.vercel.app" alt="GitHub Contribution Scanner" width="100%" />
+    <img src="https://jaiyansh-4n6-githubscanner.vercel.app/" alt="GitHub Contribution Scanner" width="100%" />
   </a>
 </p>
 

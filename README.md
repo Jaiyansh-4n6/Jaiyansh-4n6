@@ -24,8 +24,8 @@
 
 <p align="left">
   <img src="./assets/python.svg" height="40" alt="Python" />
-  <img src="./assets/c.svg" height="40" alt="C" />
   <img src="./assets/cplusplus.svg" height="40" alt="C++" />
+  <img src="./assets/c.svg" height="40" alt="C" />
   <img src="./assets/javascript.svg" height="40" alt="JavaScript" />
   <img src="./assets/typescript.svg" height="40" alt="TypeScript" />
   <img src="./assets/visualbasic.svg" height="40" alt="Visual Basic" />
